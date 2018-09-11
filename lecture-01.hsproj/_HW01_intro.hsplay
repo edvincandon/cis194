@@ -1,0 +1,13 @@
+-- Haskell Playground 1.0
+toDigits 1234
+toDigitsReverse 123
+doubleEveryOther (toDigits 1)
+sumDigits [16,7,12,5]
+
+
+validate 4012888888881881
+validate 4012888888881882
+
+hanoi 2 "a" "b" "c"
+hanoi 4 "a" "b" "c"
+hanoi 5 "a" "b" "c"
